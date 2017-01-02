@@ -24,6 +24,7 @@ package de.fischl.usbtin;
  *
  * @author Thomas Fischl <tfischl@gmx.de>
  */
+@SuppressWarnings("serial")
 public class USBtinException extends Exception {
 
     /**
